@@ -1,7 +1,7 @@
-package c;
+package b;
 
 /**
  * Created by zxt on 2014/5/4.
  */
-public class cTest1 {
+public class bTest2 {
 }
